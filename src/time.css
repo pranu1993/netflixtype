@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+   
+}
+
+div{
+    width:100%;
+    height:100vh;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    padding:12px 20px;
+    background: rgb(226, 163, 163);
+    color:white;
+    outline: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+}
+input{
+    margin:5px;
+    padding:20px;
+   
+    border:4px solid black;
+
+}
+h1{
+    color: rgb(182, 15, 87);
+    font-family: 'Saira', sans-serif;
+}
